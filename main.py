@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 
-fyke_friends = {
+villagers = {
   "bachelors": [
     {
       "name": "Alex",
@@ -119,6 +119,6 @@ fyke_friends = {
 app = FastAPI()
 
 @app.get('/')
-def fetch_friends():
-    sa = list(fyke_friends.values())
-    return sa
+def fetch_villagers():
+    villagers = list(villagers.values())
+    return villagers
