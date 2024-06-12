@@ -115,10 +115,9 @@ villagers = {
   ]
 }
 
-
 app = FastAPI()
 
 @app.get('/')
 def fetch_villagers():
-    villagers = list(villagers.values())
-    return villagers
+    villager = list(villagers.values())
+    return villager
