@@ -54,4 +54,4 @@ Use this HTTP request to villagers and pass a parameters as {type} and {id}:
 
 ```
 http://127.0.0.1:8000/villagers/{type}/{id}
-
+```
