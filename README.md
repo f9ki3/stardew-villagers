@@ -25,7 +25,7 @@ pip install fastapi
 pip install uvicorn
 ```
 
-## Getting Started
+## How to request the data?
 
 ### Getting all the villagers
 
