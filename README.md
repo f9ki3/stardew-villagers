@@ -37,10 +37,10 @@ http://127.0.0.1:8000/
 
 ### Getting all the villagers using types:
 
-1. Bachelors Data
-2. Bachelorettes Data
-3. None Marriage Candidate Data
-4. Non-giftable NPCs Data
+1. Bachelors
+2. Bachelorettes
+3. None Marriage Candidate
+4. Non-giftable NPCs
 
 Use this HTTP request to villagers and pass a parameters as {type}:
 
@@ -55,3 +55,15 @@ Use this HTTP request to villagers and pass a parameters as {type} and {id}:
 ```
 http://127.0.0.1:8000/villagers/{type}/{id}
 ```
+
+## Contact
+
+Feel free to reach out if you have any questions or suggestions:
+
+- **Author:** Fyke Lleva
+- **Email:** floterina@gmail.com
+- **Facebook:** (https://web.facebook.com/FLOZ.STN)
+- **Linkedin:** (https://www.linkedin.com/in/fykkkie/)
+- **Website:** (https://f9ki3.onrender.com/)
+  
+Thank you for exploring my Python Fast API!
