@@ -4,10 +4,10 @@ Author: Fyke Lleva
 
 This API is created using Fast API it is a python library for creating Application Programming Interface. The goal of this API is to provide data related to Villagers in Stardew Valley Game. You can requests:
 
-1. Bachelors Data
-2. Bachelorettes Data
-3. None Marriage Candidate Data
-4. Non-giftable NPCs Data
+1. bachelors Data
+2. bachelorettes Data
+3. none_marriage_candidates Data
+4. non_giftable_npcs Data
 
 ## Getting Started
 
