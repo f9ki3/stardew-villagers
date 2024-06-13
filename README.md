@@ -29,7 +29,7 @@ pip install uvicorn
 
 ### Getting all the villagers
 
-Use the this http request to all villagers characters:
+Use this HTTP request to all villagers characters:
 
 ```
 http://127.0.0.1:8000/
