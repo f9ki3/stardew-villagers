@@ -118,6 +118,10 @@ villagers = {
 app = FastAPI()
 
 @app.get('/')
-def fetch_villagers():
+def get_villagers():
     villager = list(villagers.values())
     return villager
+  
+@app.get('/villagers/{type}')
+def get_villagers_type(type: str):
+    return villagers[type]
