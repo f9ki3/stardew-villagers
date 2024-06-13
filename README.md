@@ -34,3 +34,24 @@ Use this HTTP request to all villagers characters:
 ```
 http://127.0.0.1:8000/
 ```
+
+### Getting all the villagers using types:
+
+1. Bachelors Data
+2. Bachelorettes Data
+3. None Marriage Candidate Data
+4. Non-giftable NPCs Data
+
+Use this HTTP request to villagers and pass a parameters as {type}:
+
+```
+http://127.0.0.1:8000/villagers/{type}
+```
+
+### Getting specific villagers:
+
+Use this HTTP request to villagers and pass a parameters as {type} and {id}:
+
+```
+http://127.0.0.1:8000/villagers/{type}/{id}
+
