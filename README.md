@@ -25,6 +25,15 @@ pip install fastapi
 pip install uvicorn
 ```
 
+## How to run the code
+
+1. Open the repository to a text editor like Visual Studio Code or Pycharm
+2. Open the terminal and run this command:
+
+```python
+uvicorn main:app --reload
+```
+
 ## How to request the data?
 
 ### Getting all the villagers
