@@ -41,7 +41,7 @@ uvicorn main:app --reload
 Use this HTTP request to all villagers characters:
 
 ```
-http://127.0.0.1:8000/
+http://127.0.0.1:8000/villagers
 ```
 
 ### Getting all the villagers using types:
