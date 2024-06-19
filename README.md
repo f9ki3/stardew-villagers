@@ -64,6 +64,36 @@ Use this HTTP request to villagers and pass a parameters as {type} and {id}:
 ```
 http://127.0.0.1:8000/villagers/{type}/{id}
 ```
+## How to request the data online
+
+### Getting all the villagers
+
+Use this HTTP request to all villagers characters:
+
+```
+https://stardew-villagers/villagers
+```
+
+### Getting all the villagers using types:
+
+1. Bachelors
+2. Bachelorettes
+3. None Marriage Candidate
+4. Non-giftable NPCs
+
+Use this HTTP request to villagers and pass a parameters as {type}:
+
+```
+https://stardew-villagers/villagers/{type}
+```
+
+### Getting specific villagers:
+
+Use this HTTP request to villagers and pass a parameters as {type} and {id}:
+
+```
+https://stardew-villagers.onrender.com/villagers/{type}/{id}
+```
 
 ## Contact
 
