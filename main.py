@@ -315,7 +315,7 @@ villagers = {
             "location": "Pelican Town"
         }
     ],
-    "non_giftable_npcs": [
+    "none_giftable_npcs": [
         {
             "name": "Bouncer",
             "description": "A silent guard who blocks access to the casino until you earn his trust.",

@@ -7,7 +7,7 @@ This API is created using Fast API it is a python library for creating Applicati
 1. bachelors Data
 2. bachelorettes Data
 3. none_marriage_candidates Data
-4. non_giftable_npcs Data
+4. none_giftable_npcs Data
 
 ## Getting Started
 
